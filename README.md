@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 - 🏛️ Computer Engineering Undergradguate student @ UBC.
 - 🌟 Focus: FPGA, Embedded Systems, AI
-- 🔭 I’m currently working on ..
+- 🐈‍⬛ I’m currently working on an AI model to detect pain level in cats 
 
 Take a look around!
